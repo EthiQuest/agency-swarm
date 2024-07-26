@@ -1,5 +1,5 @@
 ---
-name: Custom issue template
+name: 'User Story '
 about: Create a user story to capture a feature from an end-user perspective
 title: "[USER STORY] As a [type of user], I want [goal] so that [benefit]"
 labels: user story
